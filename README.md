@@ -215,4 +215,4 @@ Gnumeric is available as a full free version, providing all features and updates
 Unlock your productivity today with Gnumeric! Download Gnumeric free and start creating powerful spreadsheets effortlessly.
 
 ---
-**Last updated:** 2026-10-05 23:31:47 UTC
+**Last updated:** 2026-10-06 04:07:40 UTC
